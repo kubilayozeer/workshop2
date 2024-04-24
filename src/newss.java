@@ -14,7 +14,7 @@ public class newss {
             toplamSatisGeliri += urunToplamFiyat;
         }
 
-        // Toplam satış gelirini yazdır
+        // Toplam satış gelirini yazdırss
         System.out.println("Toplam Satış Geliri: " + toplamSatisGeliri);
     }
 }
